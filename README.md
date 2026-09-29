@@ -1,4 +1,4 @@
-# Driver-Drowsiness-Detection-
+# Driver-Drowsiness-Detection
 Real-time Driver Drowsiness Detection System using Python, OpenCV, and MediaPipe to monitor eye closure and head movements, with Arduino Uno integration to trigger alerts and reduce motor speed when drowsiness is detected.
 
 - **Real-Time Drowsiness Detection:** Detects signs of driver drowsiness using facial landmarks and Eye Aspect Ratio (EAR).
